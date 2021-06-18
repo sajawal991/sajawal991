@@ -1,19 +1,8 @@
-- 👋 Hi, I’m @sajawal991
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-sajawal991/sajawal991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 #include<iostream>
 #include<cctype>
 #include<cstdlib>
 #include<iomanip>
 #include<conio.h>
-#include<dose.h>
 using namespace std;
 class catering_management{
 	private:
